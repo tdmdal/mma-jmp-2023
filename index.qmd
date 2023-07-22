@@ -1,0 +1,54 @@
+---
+title: "JMP Workshop"
+---
+
+### Prerequisite
+
+1. Download and install JMP.
+
+    *JMP download and installation information will come soon as we are still waiting for Rotman JMP Pro license for the 2023-2024 school year.*
+    
+    Note that the Rotman licensed JMP is Windows only. Mac users may consider installing a virtualization software such as [Parallels Desktop](https://www.parallels.com){target="_blank"} so you could run Windows apps on a Mac. If you have any questions about the virtualization software, you may contact [Rotman IT Helpdesk](mailto:helpdesk@rotman.utoronto.ca).
+
+2. Get familiar with JMP navigation and basic use.
+
+    * Launch JMP Pro. Take a quick 5-minute hands-on tutorial under the menu "Help > Tutorials > Beginners Tutorial".
+    
+    * Go through 3 online video tutorials (about 50mins in total) at [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}. Note the datasets used in the tutorials can be found in JMP under the menu "Help > Sample Data Library".
+
+---    
+
+### Slides
+
+1. Session 1 (*coming soon*)
+    * Workflow overview
+    * Basic data manipulation
+
+2. Session 2 (*coming soon*)
+    * Join data tables
+    * JMP graphing
+
+3. Session 3 (*coming soon*)
+    * Modelling
+    * JMP Journal
+    * JMP Scripting Language
+
+---
+    
+### Data
+
+|        Download and unzip the datasets for the workshop ([data.zip](data.zip)).
+
+---
+
+### Getting-started Resources
+
+* [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}
+
+* [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html){target="_blank"}
+
+* [Statistical Thinking for Industrial Problem Solving](https://www.coursera.org/learn/statistical-thinking-applied-statistics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
