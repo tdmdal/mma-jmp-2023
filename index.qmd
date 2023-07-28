@@ -6,8 +6,12 @@ title: "JMP Workshop"
 
 1. Download and install JMP.
 
-    *JMP download and installation information will come soon as we are still waiting for Rotman JMP Pro license for the 2023-2024 school year.*
+    * Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"}. Click the "Software" tile, and then follow the JMP "Download" link.
     
+    * Unzip the downloaded file into a temporary folder. Run the setup utility ("JMP\\JMP_Pro\17_0\\Windows\\jmppro__1700__win.exe").
+    
+    * (Optional) After installation, launch JMP Pro 17. Under the menu "File > Preferences > JMP Updates", click "Check Now" and follow the instruction to update JMP from version 17.0.0 to 17.1.0. (You would need to creat a SAS profile by signing up SAS support community, download an update pacakge, and install it.)
+
     Note that the Rotman licensed JMP is Windows only. Mac users may consider installing a virtualization software such as [Parallels Desktop](https://www.parallels.com){target="_blank"} so you could run Windows apps on a Mac. If you have any questions about the virtualization software, you may contact [Rotman IT Helpdesk](mailto:helpdesk@rotman.utoronto.ca).
 
 2. Get familiar with JMP navigation and basic use.
