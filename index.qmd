@@ -12,7 +12,7 @@ title: "JMP Workshop"
     
     * (Optional) After installation, launch JMP Pro 17. Under the menu "File > Preferences > JMP Updates", click "Check Now" and follow the instruction to update JMP from version 17.0.0 to 17.1.0. (You would need to creat a SAS profile by signing up SAS support community, download an update pacakge, and install it.)
 
-    Note that the Rotman licensed JMP is Windows only. Mac users may consider installing a virtualization software such as [Parallels Desktop](https://www.parallels.com){target="_blank"} so you could run Windows apps on a Mac. If you have any questions about the virtualization software, you may contact [Rotman IT Helpdesk](mailto:helpdesk@rotman.utoronto.ca).
+    Note that the Rotman licensed JMP is Windows only. Mac users may consider installing a virtualization software such as [Parallels Desktop](https://www.parallels.com){target="_blank"} so you could run Windows apps on a Mac. If you have any questions about the virtualization software, you may contact [Rotman IT Helpdesk](mailto:helpdesk@rotman.utoronto.ca). If you don't have time to work out the virtualization approach, a temporary solution for Mac users is to simply download and install a 1-month free trial of [JMP Mac](https://www.jmp.com/en_ca/download-jmp-free-trial.html){target="_blank"} for this workshop.
 
 2. Get familiar with JMP navigation and basic use.
 
