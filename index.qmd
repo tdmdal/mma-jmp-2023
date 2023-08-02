@@ -24,7 +24,7 @@ title: "JMP Workshop"
 
 ### Slides
 
-1. Session 1 (*coming soon*)
+1. Session 1 ([Slides](jmp_bootcamp_part1.pdf))
     * Workflow overview
     * Basic data manipulation
 
