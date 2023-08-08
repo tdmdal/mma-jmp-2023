@@ -32,7 +32,7 @@ title: "JMP Workshop"
     * Join data tables
     * JMP graphing
 
-3. Session 3 (*coming soon*)
+3. Session 3 ([Slides](jmp_bootcamp_part3.pdf))
     * Modelling
     * JMP Journal
     * JMP Scripting Language
