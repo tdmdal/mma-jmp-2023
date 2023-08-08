@@ -28,7 +28,7 @@ title: "JMP Workshop"
     * Workflow overview
     * Basic data manipulation
 
-2. Session 2 (*coming soon*)
+2. Session 2 ([Slides](jmp_bootcamp_part2.pdf))
     * Join data tables
     * JMP graphing
 
